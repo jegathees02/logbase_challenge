@@ -12,7 +12,6 @@ public class Product {
     // private double price;
     private List<Variant> variants;
     private String description;
-    // private List<Object> specification;
     private List<Review> reviews;
     private String category;
 
